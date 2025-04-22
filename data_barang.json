@@ -1,0 +1,14 @@
+[
+    {
+        "id_barang": "BRG001",
+        "nama": "buku",
+        "stok": 4,
+        "harga": 300
+    },
+    {
+        "id_barang": "BRG002",
+        "nama": "pensil",
+        "stok": 10,
+        "harga": 7000
+    }
+]
